@@ -1,0 +1,16 @@
+8:20:53 listening server at http://0.0.0.0:4000
+8:21:45 请求方法,GET
+8:21:45 request query 参数,[object Object]
+8:24:5 listening server at http://0.0.0.0:4000
+8:24:13 请求方法,GET
+8:24:13 request query 参数,[object Object]
+8:24:14 请求方法,GET
+8:24:14 request query 参数,[object Object]
+8:24:29 请求方法,GET
+8:24:29 request query 参数,[object Object]
+8:24:57 method_add请求方法,POST
+8:24:57 request POST 的 form 表单数据,[object Object]
+8:24:57 请求方法,GET
+8:24:57 request query 参数,[object Object]
+8:25:5 请求方法,GET
+8:25:5 request query 参数,[object Object]
